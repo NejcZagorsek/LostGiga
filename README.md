@@ -1,8 +1,9 @@
 # LostGiga
 
-👋 Živjo, dobrodošel/-a na mojem GitHub profilu!
+👋 Živjo, dobrodošel na mojem GitHub profilu!
 💻 O meni
-Sem dijak/-inja, ki ga/jo zanimajo računalniki, programiranje in informacijska tehnologija. Rad/-a pridobivam nova znanja ter preizkušam različne tehnologije.
+
+Sem dijak, ki ga zanimajo računalniki, programiranje in informacijska tehnologija. Rad pridobivam nova znanja in preizkušam različne tehnologije.
 
 🛠️ Moja področja
 🖥️ Virtualizacija
@@ -16,27 +17,33 @@ Raziskovanje spletnih tehnologij.
 🔌 Računalniška omrežja (Networking)
 Spoznajanje delovanja računalniških omrežij.
 IP-naslovi, DNS in DHCP.
-Osnove povezovanja računalnikov in odpravljanja težav z omrežjem.
+Povezovanje računalnikov in odpravljanje težav z omrežjem.
 ☕ Java in NetBeans
 Učenje programskega jezika Java.
 Uporaba razvojnega okolja Apache NetBeans.
 Pisanje, testiranje in odpravljanje napak v programih.
 📱 Ustvarjanje aplikacij
-Razvoj preprostih aplikacij v Javi.
+Razvoj aplikacij v Javi.
 Ustvarjanje grafičnih uporabniških vmesnikov.
-Dodajanje gumbov, besedilnih polj in drugih elementov.
-Izdelava projektov za praktično uporabo.
+Dodajanje gumbov in besedilnih polj.
+Izdelava uporabnih projektov.
 🎯 Moji cilji
 Izboljšati znanje programiranja.
 Ustvariti lastno aplikacijo v Javi.
 Izdelati zanimive spletne strani.
-Razumeti računalniška omrežja in virtualizacijo.
-Svoje projekte objavljati na GitHubu.
+Bolje razumeti računalniška omrežja in virtualizacijo.
 🚀 Trenutno se učim
-HTML 🌐
-Java ☕
-Virtualizacija 🖥️
-Networking 🔌
-Razvoj aplikacij 💡
+🌐 HTML
+☕ Java
+🖥️ Virtualizacija
+🔌 Networking
+💡 Razvoj aplikacij
+📂 Moji projekti
+
+Tukaj bom objavljal svoje projekte in aplikacije.
+
 📫 Najdeš me na GitHubu
-Obišči moj profil
+
+👉 Moj GitHub profil
+
+⭐ Vedno se učim nekaj novega!
